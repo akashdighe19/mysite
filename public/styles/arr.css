@@ -1,0 +1,24 @@
+div{
+    border: groove;
+    border-radius: 30px;
+    border-color: rgb(223, 136, 136);
+    border-width: 8px;
+    width: 60%;
+    height: 400px;
+    background-color:aqua;
+}
+div input{
+    border: solid;
+    border-color: red;
+    border-width: 5px;
+    border-radius: 10px;
+}
+button
+{
+    height: 20px;
+    width: fit-content;
+    border: double;
+    border-radius: 5px;
+    border-color: brown;
+    background-color:lightseagreen;
+}
